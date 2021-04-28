@@ -1,2 +1,2 @@
-# Bootcamp2020
+# Bsic React App
 Basic Practice for bootcamp
